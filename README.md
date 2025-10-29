@@ -1,4 +1,4 @@
-project builds and evaluates several machine learning models to classify news articles as "Fake" or "True". The models are trained on a dataset of news headlines and text, using NLP (Natural Language Processing) techniques for feature extraction.
+This project builds and evaluates several machine learning models to classify news articles as "Fake" or "True". The models are trained on a dataset of news headlines and text, using NLP (Natural Language Processing) techniques for feature extraction.
 
 The project demonstrates a comparative analysis of four different classification algorithms, with the Decision Tree Classifier achieving the highest accuracy at 99.53%.
 
